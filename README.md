@@ -99,7 +99,7 @@ See [my website](https://hiluan.dev) for more information!
     </td>
 
   </tr>
-  <tr width="100%">
+  <tr>
     <td width="100%" valign="top">
       <h3 align="center">hiluan.dev: Luan's Portfolio</h3>
       <br />
