@@ -67,7 +67,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">Waves: Lofi Chillhop Music Player</h3>
         <br />
       <a target="_blank" href="https://waves-lofi.netlify.app/">
-            <img src="images/hiluan-waves-lofi-music.gif" width="50%"  alt="Waves: Lofi Chillhop Music Player"/>
+            <img src="images/hiluan-waves-lofi-music.gif" width="100%" alt="Waves: Lofi Chillhop Music Player"/>
         </a>
         <br />
         <p align="center">
