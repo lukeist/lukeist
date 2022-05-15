@@ -30,7 +30,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">Starlite: Online Trading Platform</h3>
         <br />
         <a target="_blank" href="https://starlite.netlify.app">
-            <img src="images/hiluan-startlite-online-broker-trading-platform.gif" width="50%" alt="Starlite: Online Trading Platform"/>
+            <img src="images/hiluan-startlite-online-broker-trading-platform.gif" width="100%" alt="Starlite: Online Trading Platform"/>
         </a>
         <br />
         <p align="center">
@@ -47,7 +47,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">Cinciao.vn: Platform As A Service</h3>
         <br />
         <a target="_blank" href="https://cinciao.vn/">
-          <img src="images/hiluan-cinciao-com.gif" width="50%" alt="Cinciao.vn: Platform As A Service"/>
+          <img src="images/hiluan-cinciao-com.gif" width="100%" alt="Cinciao.vn: Platform As A Service"/>
         </a>
         <br />
         <p align="center">
@@ -84,7 +84,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">iounica.com: Online Fashion Shop</h3>
       <br />
         <a target="_blank" href="https://iounica.com">
-          <img src="images/hiluan-iounica-com.gif" width="50%" alt="iounica.com: Online Fashion Shop"/>
+          <img src="images/hiluan-iounica-com.gif" width="100%" alt="iounica.com: Online Fashion Shop"/>
         </a>
       <br />
         <p align="center">
@@ -104,7 +104,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">hiluan.dev: Luan's Portfolio</h3>
       <br />
         <a target="_blank" href="https://hiluan.dev">
-          <img src="images/hiluan-homepage.gif" width="50%" alt="hiluan.dev: Luan's Portfolio"/>
+          <img src="images/hiluan-homepage.gif" width="100%" alt="hiluan.dev: Luan's Portfolio"/>
         </a>
       <br />
         <p align="center">
