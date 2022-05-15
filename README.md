@@ -27,23 +27,6 @@ See [my website](https://hiluan.dev) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Starlite: Online Trading Platform</h3>
-        <br />
-        <a target="_blank" href="https://starlite.netlify.app">
-            <img src="https://i.ibb.co/z8Hj28z/hiluan-startlite-online-broker-trading-platform.gif" width="50%" alt="Starlite: Online Trading Platform"/>
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://github.com/hiluan/starlite-frontend" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="http://starlite.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React.js, Redux, Sass, Javascript, Node.js, & Express.js</strong> - Startlite, a WebApp with real-time market data, lets you follow your favorite stocks, create your own portfolio and test your trades and strategies.</p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Cinciao.vn: Platform As A Service</h3>
         <br />
         <a target="_blank" href="https://cinciao.vn/">
@@ -59,6 +42,23 @@ See [my website](https://hiluan.dev) for more information!
   </a>
       </p>
         <p><strong>Shopify, HTML5, CSS3, & Javascript</strong> - Cinciao allows Vietnamese celebrities to send personalized video messages to their fans and to FaceTime directly with them, anytime and anywhere.</p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">Starlite: Online Trading Platform</h3>
+        <br />
+        <a target="_blank" href="https://starlite.netlify.app">
+            <img src="https://i.ibb.co/z8Hj28z/hiluan-startlite-online-broker-trading-platform.gif" width="50%" alt="Starlite: Online Trading Platform"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/hiluan/starlite-frontend" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="http://starlite.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js, Redux, Sass, Javascript, Node.js, & Express.js</strong> - Startlite, a WebApp with real-time market data, lets you follow your favorite stocks, create your own portfolio and test your trades and strategies.</p>
     </td>
   </tr>
   
