@@ -100,7 +100,6 @@ See [my website](https://hiluan.dev) for more information!
 
   </tr>
   <tr >
-    <td width="50%" valign="top">
       <h3 align="center">hiluan.dev: Luan's Portfolio</h3>
       <br />
         <a target="_blank" href="https://hiluan.dev">
@@ -116,7 +115,6 @@ See [my website](https://hiluan.dev) for more information!
   </a>
       </p>
         <p><strong>React.js, Redux, Sass, Javascript, Node.js, & Express.js</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
   </tr>
 
 </table>
