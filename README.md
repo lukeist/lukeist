@@ -30,7 +30,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">Starlite: Online Trading Platform</h3>
         <br />
         <a target="_blank" href="https://starlite.netlify.app">
-            <img src="https://i.ibb.co/z8Hj28z/hiluan-startlite-online-broker-trading-platform.gif" width="100%" alt="Travel App"/>
+            <img src="https://i.ibb.co/z8Hj28z/hiluan-startlite-online-broker-trading-platform.gif" width="100%" alt="Starlite: Online Trading Platform"/>
         </a>
         <br />
         <p align="center">
@@ -47,7 +47,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">Cinciao.vn: Platform As A Service</h3>
         <br />
         <a target="_blank" href="https://cinciao.vn/">
-          <img src="https://i.ibb.co/0MXsgZN/hiluan-cinciao-com.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://i.ibb.co/0MXsgZN/hiluan-cinciao-com.gif" width="100%" alt="Cinciao.vn: Platform As A Service"/>
         </a>
         <br />
         <p align="center">
@@ -67,7 +67,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">Waves: Lofi Chillhop Music Player</h3>
         <br />
       <a target="_blank" href="https://waves-lofi.netlify.app/">
-            <img src="https://i.ibb.co/QDMfybX/hiluan-waves-lofi-music.gif" width="100%"  alt="Rigley 2"/>
+            <img src="https://i.ibb.co/QDMfybX/hiluan-waves-lofi-music.gif" width="100%"  alt="Waves: Lofi Chillhop Music Player"/>
         </a>
         <br />
         <p align="center">
@@ -84,7 +84,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">iounica.com: Online Fashion Shop</h3>
       <br />
         <a target="_blank" href="https://iounica.com">
-          <img src="https://i.ibb.co/n1D1XmV/hiluan-iounica-com.gif" width="100%" alt="Portfolio"/>
+          <img src="https://i.ibb.co/n1D1XmV/hiluan-iounica-com.gif" width="100%" alt="iounica.com: Online Fashion Shop"/>
         </a>
       <br />
         <p align="center">
@@ -104,7 +104,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">hiluan.dev: Luan's Portfolio</h3>
       <br />
         <a target="_blank" href="https://hiluan.dev">
-          <img src="https://i.ibb.co/SXK9c0B/hiluan-homepage.gif" width="100%" alt="Portfolio"/>
+          <img src="https://i.ibb.co/SXK9c0B/hiluan-homepage.gif" width="100%" alt="hiluan.dev: Luan's Portfolio"/>
         </a>
       <br />
         <p align="center">
