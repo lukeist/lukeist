@@ -30,7 +30,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">Starlite: Online Trading Platform</h3>
         <br />
         <a target="_blank" href="https://starlite.netlify.app">
-            <img src="/images/hiluan-startlite-online-broker-trading-platform.gif" width="50%" alt="Starlite: Online Trading Platform"/>
+            <img src="images/hiluan-startlite-online-broker-trading-platform.gif" width="50%" alt="Starlite: Online Trading Platform"/>
         </a>
         <br />
         <p align="center">
@@ -47,7 +47,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">Cinciao.vn: Platform As A Service</h3>
         <br />
         <a target="_blank" href="https://cinciao.vn/">
-          <img src="/images/hiluan-cinciao-com.gif" width="50%" alt="Cinciao.vn: Platform As A Service"/>
+          <img src="images/hiluan-cinciao-com.gif" width="50%" alt="Cinciao.vn: Platform As A Service"/>
         </a>
         <br />
         <p align="center">
@@ -67,7 +67,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">Waves: Lofi Chillhop Music Player</h3>
         <br />
       <a target="_blank" href="https://waves-lofi.netlify.app/">
-            <img src="/images/hiluan-waves-lofi-music.gif" width="50%"  alt="Waves: Lofi Chillhop Music Player"/>
+            <img src="images/hiluan-waves-lofi-music.gif" width="50%"  alt="Waves: Lofi Chillhop Music Player"/>
         </a>
         <br />
         <p align="center">
@@ -84,7 +84,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">iounica.com: Online Fashion Shop</h3>
       <br />
         <a target="_blank" href="https://iounica.com">
-          <img src="/images/hiluan-iounica-com.gif" width="50%" alt="iounica.com: Online Fashion Shop"/>
+          <img src="images/hiluan-iounica-com.gif" width="50%" alt="iounica.com: Online Fashion Shop"/>
         </a>
       <br />
         <p align="center">
@@ -104,7 +104,7 @@ See [my website](https://hiluan.dev) for more information!
       <h3 align="center">hiluan.dev: Luan's Portfolio</h3>
       <br />
         <a target="_blank" href="https://hiluan.dev">
-          <img src="/images/hiluan-homepage.gif" width="50%" alt="hiluan.dev: Luan's Portfolio"/>
+          <img src="images/hiluan-homepage.gif" width="50%" alt="hiluan.dev: Luan's Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -168,7 +168,7 @@ See [my website](https://hiluan.dev) for more information!
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  </p> -->
 
-<h3 align="center">Languages and Tools:</h3> -->
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
