@@ -102,8 +102,8 @@ See [my website](https://hiluan.dev) for more information!
   <tr >
       <h3 align="center">hiluan.dev: Luan's Portfolio</h3>
       <br />
-        <a target="_blank" href="https://hiluan.dev">
-          <img src="images/hiluan-homepage-800.gif" width="100%" alt="hiluan.dev: Luan's Portfolio"/>
+        <a align="center" target="_blank" href="https://hiluan.dev">
+          <img align="center" src="images/hiluan-homepage-800.gif" width="100%" alt="hiluan.dev: Luan's Portfolio"/>
         </a>
       <br />
         <p align="center">
