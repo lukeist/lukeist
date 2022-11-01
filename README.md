@@ -207,7 +207,7 @@ website](https://hiluan.dev) for more information!
     <p align="center">
       <a target="_blank" href="https://nurbier.art">
         <img
-          src=""images/hiluan-nurbier-art-fullstack-ecommerce-web-app-800"
+          src="images/hiluan-nurbier-art-fullstack-ecommerce-web-app-800.gif"
           width="100%"
           alt="NurBier.art: Nur Bier - eCommerce WebApp"
         />
