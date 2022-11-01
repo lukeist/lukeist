@@ -1,5 +1,3 @@
-
- -->
 <img src="https://i.ibb.co/zrvXDP0/hiluan-dev-github-banner.jpg" width="100%" />
 
 <p align="center">
@@ -209,7 +207,7 @@ website](https://hiluan.dev) for more information!
     <p align="center">
       <a target="_blank" href="https://nurbier.art">
         <img
-          src="https://i.ibb.co/5vnzSBQ/hiluan-nurbier-art-fullstack-ecommerce-web-app-800.gif"
+          src=""images/hiluan-nurbier-art-fullstack-ecommerce-web-app-800"
           width="100%"
           alt="NurBier.art: Nur Bier - eCommerce WebApp"
         />
@@ -577,7 +575,7 @@ website](https://hiluan.dev) for more information!
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">iounica.com: Online Fashion Shop</h3>
+      <h3 align="center">iounica: Online Fashion Shop</h3>
       <br />
       <a target="_blank" href="https://iounica.com">
         <img
