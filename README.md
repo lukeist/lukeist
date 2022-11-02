@@ -67,8 +67,8 @@ website](https://hiluan.dev) for more information!
         <strong
           >React.js, Redux, Sass, Javascript, Node.js, & Express.js</strong
         >
-        - Portfolio Site including links to my projects and ways to get in
-        contact with me.
+        - Portfolio site including links to my projects, my designs, my resume, 
+        and my cheesy story. There are many ways to get in touch with me and this is one. 
       </p>
     </td>
     <!-- STARLITE -->
