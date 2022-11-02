@@ -41,15 +41,13 @@ website](https://hiluan.dev) for more information!
     <td width="50%" valign="top">
       <h3 align="center">hiluan.dev: Luan's Portfolio</h3>
       <br />
-      <p align="center">
-        <a target="_blank" href="https://hiluan.dev">
-          <img
-            src="images/hiluan-homepage-800.gif"
-            width="100%"
-            alt="hiluan.dev: Luan's Portfolio"
-          />
-        </a>
-      </p>
+      <a target="_blank" href="https://hiluan.dev">
+        <img
+          src="images/hiluan-homepage-800.gif"
+          width="100%"
+          alt="hiluan.dev: Luan's Portfolio"
+        />
+      </a>
       <br />
       <p align="center">
         <a href="https://github.com/hiluan/hiluan-frontend" target="_blank">
@@ -67,8 +65,7 @@ website](https://hiluan.dev) for more information!
         <strong
           >React.js, Redux, Sass, Javascript, Node.js, & Express.js</strong
         >
-        - Portfolio site including links to my projects, my designs, my resume, 
-        and my cheesy story. There are many ways to get in touch with me and this is one. 
+        - Portfolio site including links to my projects, my designs, my resume, my cheesy story, and ways to get in touch with me. 
       </p>
     </td>
     <!-- STARLITE -->
