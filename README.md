@@ -231,7 +231,7 @@ website](https://hiluan.dev) for more information!
     </p>
     <p>
       <strong>
-        "NextJs", ReactJS, Strapi, GraphQL, Cloudinary, Auth0, Stripe API,
+        NextJs, ReactJS, Strapi, GraphQL, Cloudinary, Auth0, Stripe API,
         Paypal API, Styled Components, Framer Motion
       </strong>
       - Nur Bier, a full-stack eCommerce WebApp, lets you learn about a brewery
