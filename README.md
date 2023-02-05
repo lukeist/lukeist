@@ -202,7 +202,7 @@ website](https://hiluan.dev) for more information!
     <h3 align="center">Nur Bier: eCommerce WebApp</h3>
     <br />
     <p align="center">
-      <a target="_blank" href="https://nurbier.art">
+      <a target="_blank" href="https://nurbier.vercel.app">
         <img
           src="images/hiluan-nurbier-art-fullstack-ecommerce-web-app-800.gif"
           width="100%"
