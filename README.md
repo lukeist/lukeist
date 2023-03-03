@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/XJwB1wK/hiluan-dev.jpg" width="100%" />
+<img src="https://i.ibb.co/y5fbBXj/hiluan-dev.jpg" width="100%" />
 
 <p align="center">
   <a href="https://hiluan.dev" target="_blank">
