@@ -28,7 +28,7 @@
   </a>
 </p>
 
-Currently Software Engineer at 100Devs and Operational Manager at Cinciao. I am
+Currently Software Engineer at CodeSync. I am
 motivated by the power of technology as a tool for positive change. See [my
 website](https://hiluan.dev) for more information!
 
