@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/YpPqd6x/lukeist.png" width="100%" />
+<img src="https://i.ibb.co/YpPqd6x/lukeist.png" width="100%" height="100%"/>
 
 <p align="center">
   <a href="https://luke.ist" target="_blank">
