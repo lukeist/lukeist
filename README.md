@@ -1,27 +1,27 @@
-<img src="https://i.ibb.co/y5fbBXj/hiluan-dev.jpg" width="100%" />
+<img src="https://i.ibb.co/YpPqd6x/lukeist.png" width="100%" />
 
 <p align="center">
-  <a href="https://hiluan.dev" target="_blank">
+  <a href="https://luke.ist" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"
     />
   </a>
-  <a href="https://linkedin.com/hiluan" target="_blank">
+  <a href="https://linkedin.com/lukeist" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"
     />
   </a>
-  <a href="https://twitter.com/hiluan" target="_blank">
+  <a href="https://twitter.com/lukeist_" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"
     />
   </a>
-  <a href="https://angel.co/u/hiluan" target="_blank">
+  <a href="https://angel.co/u/lukeist" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"
     />
   </a>
-  <a href="https://hiluan.dev/resume" target="_blank">
+  <a href="https://luke.ist/resume" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"
     />
@@ -30,7 +30,7 @@
 
 Currently Software Engineer at CodeSync. I am
 motivated by the power of technology as a tool for positive change. See [my
-website](https://hiluan.dev) for more information!
+website](https://luke.ist) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -50,7 +50,7 @@ website](https://hiluan.dev) for more information!
         </a>
       <br />
       <p align="center">
-        <a href="https://github.com/hiluan/wizmage.f" target="_blank">
+        <a href="https://github.com/lukeist/wizmage.f" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
           />
@@ -82,7 +82,7 @@ website](https://hiluan.dev) for more information!
       <br />
       <p align="center">
         <a
-          href="https://github.com/hiluan/nurbier-ecommerce-webapp-frontend"
+          href="https://github.com/lukeist/nurbier-ecommerce-webapp-frontend"
           target="_blank"
         >
           <img
@@ -106,28 +106,28 @@ website](https://hiluan.dev) for more information!
       </p>
     </td>
   </tr>
-  <!-- HILUAN -->
+  <!-- LUKE.IST -->
   <!-- STARLITE -->
   <tr>
-    <!-- HILUAN -->
+    <!-- LUKE.IST -->
     <td width="50%" valign="top">
-      <h3 align="center">hiluan.dev: Luan's Portfolio</h3>
+      <h3 align="center">luke.ist: Luke's Portfolio</h3>
       <br />
-        <a target="_blank" href="https://hiluan.dev">
+        <a target="_blank" href="https://luke.ist">
           <img
             src="images/hiluan-homepage-800.gif"
             width="100%"
-            alt="hiluan.dev: Luan's Portfolio"
+            alt="luke.ist: Luke's Portfolio"
           />
         </a>
       <br />
       <p align="center">
-        <a href="https://github.com/hiluan/hiluan-frontend" target="_blank">
+        <a href="https://github.com/lukeist/lukeist-frontend" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
           />
         </a>
-        <a href="https://hiluan.dev" target="_blank">
+        <a href="https://luke.ist" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"
           />
@@ -154,7 +154,7 @@ website](https://hiluan.dev) for more information!
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/hiluan/starlite-frontend" target="_blank">
+        <a href="https://github.com/lukeist/starlite-frontend" target="_blank">
           <img
             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"
           />
@@ -248,7 +248,7 @@ website](https://hiluan.dev) for more information!
     <p align="center">
       <a target="_blank" href="https://datanexus.vercel.app">
         <img
-          src="https://raw.githubusercontent.com/hiluan/hiluan/main/images/hiluan-datanexus-admin-dashboard-v4h.gif"
+          src="https://raw.githubusercontent.com/lukeist/lukeist/main/images/hiluan-datanexus-admin-dashboard-v4h.gif"
           width="100%"
           alt="datanexus.vercel.app: Datanexus - Data Management App"
         />
@@ -257,7 +257,7 @@ website](https://hiluan.dev) for more information!
     <br />
     <p align="center">
       <a
-        href="https://github.com/hiluan/datanexus-admin-dashboard-frontend"
+        href="https://github.com/lukeist/datanexus-admin-dashboard-frontend"
         target="_blank"
       >
         <img
@@ -453,27 +453,27 @@ website](https://hiluan.dev) for more information!
 
 <h1 align="center">Connect</h1>
 <p align="center">
-  <a href="https://hiluan.dev" target="_blank">
+  <a href="https://luke.ist" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"
     />
   </a>
-  <a href="https://linkedin.com/hiluan" target="_blank">
+  <a href="https://linkedin.com/lukeist" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"
     />
   </a>
-  <a href="https://twitter.com/hiluan" target="_blank">
+  <a href="https://twitter.com/lukeist_" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"
     />
   </a>
-  <a href="https://angel.co/u/hiluan" target="_blank">
+  <a href="https://angel.co/u/lukeist" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"
     />
   </a>
-  <a href="https://hiluan.dev/resume" target="_blank">
+  <a href="https://luke.ist/resume" target="_blank">
     <img
       src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"
     />
